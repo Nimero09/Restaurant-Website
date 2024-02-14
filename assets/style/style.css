@@ -125,7 +125,9 @@ header a:hover {
 
 header img {
     width: 80px;
-    margin-top: 12px;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    display: block;
 }
 
 header nav {
@@ -571,7 +573,7 @@ footer form i {
 
     header > .bx {
         display: block;
-        margin-top: 20px;
+        margin-top: 32px;
     }
 
     header nav {
@@ -579,7 +581,7 @@ footer form i {
     }
 
     header a {
-        margin-left: 20%;
+        margin-left: 22%;
     }
 
     header img {
